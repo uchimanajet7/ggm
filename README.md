@@ -10,8 +10,10 @@ Speech synthesis(text-to-speech) and USB power management commands must be insta
 
 ## Demo
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/uchimanajet7/status/905570296039481344">Manabu Uchida on Twitter</a></h4><p>音声合成できたー楽しい https://t.co/ZRDM7dXPoG</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+Click on the image to watch the movie！
+
+[![Speech synthesis(text-to-speech) demo](https://user-images.githubusercontent.com/6448792/30139121-12731488-93a7-11e7-8a47-8575b0a4351e.jpg)](https://twitter.com/uchimanajet7/status/905570296039481344)
+
 
 ## Features
 - It is made by golang so it supports multi form.
