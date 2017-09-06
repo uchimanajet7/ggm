@@ -8,6 +8,10 @@ Check Gmail using golang Gmail SDK and execute the specified command when there 
 
 Speech synthesis(text-to-speech) and USB power management commands must be installed in Raspberry Pi 3 beforehand as specified commands.
 
+## Demo
+
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/uchimanajet7/status/905570296039481344">Manabu Uchida on Twitter</a></h4><p>音声合成できたー楽しい https://t.co/ZRDM7dXPoG</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Features
 - It is made by golang so it supports multi form.
