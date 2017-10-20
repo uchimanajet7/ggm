@@ -113,6 +113,8 @@ $ go get github.com/uchimanajet7/ggm
 ## Author
 [uchimanajet7](https://github.com/uchimanajet7)
 
+- Raspberry Pi 3+Gmail APIでメールを受信して音声合成してみた #raspberrypi #gmail #golang - uchimanajet7のメモ
+	- http://uchimanajet7.hatenablog.com/entry/2017/09/07/085329
 
 ## Licence
 [MIT License](https://github.com/uchimanajet7/ggm/blob/master/LICENSE)
